@@ -2,21 +2,21 @@
 
 ## 1. Запуск контейнера
 
-![Запуск Ubuntu контейнера](images/1.png)
+![Запуск Ubuntu контейнера](../images/1.png)
 
 ## 2. Установка neofetch
 
-![Установка neofetch](images/2.png)
+![Установка neofetch](../images/2.png)
 
 ## 3. Установка curl
 
-![Установка curl](images/3.png)
+![Установка curl](../images/3.png)
 
 ## 4. Проверка версий
 
-![Проверка curl](images/4.png)
+![Проверка curl](../images/4.png)
 
-![Запуск neofetch](images/4.png)
+![Запуск neofetch](../images/4.png)
 
 ## Результат
 
