@@ -7,7 +7,7 @@ docker run -d \
     adminer:latest
 ```
 
-![пример 1](../images/adm1.png)
+![пример 1](../images/adm.png)
 
 ---
 
@@ -15,6 +15,6 @@ docker run -d \
 
 Открыт браузер по адресу `http://localhost:8084`
 
-![пример 2](../images/adm.png)
+![пример 2](../images/adm1.png)
 
 ---
