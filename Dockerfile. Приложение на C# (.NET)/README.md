@@ -15,3 +15,4 @@
 mkdir -p MyApp && cd MyApp && touch Program.cs MyApp.csproj Dockerfile
 ![готовое](../images/нов пр.png)
 ![готовое](../images/нов пр2.png)
+![пример](../images/пр2.png)
