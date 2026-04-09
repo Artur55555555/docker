@@ -12,13 +12,14 @@
 ![пример](../images/пр2.png)
 Создайте структуру проекта одной командой:
 
-```bash
-mkdir -p simple_flask_app && cd simple_flask_app && touch app.py requirements.txt Dockerfile .dockerignore
-
-
 ![код](../images/пр1.png)
 simple_flask_app/
 ├── app.py              # Flask-приложение
 ├── requirements.txt    # Зависимости Python
 ├── Dockerfile          # Инструкции для сборки образа
 └── .dockerignore       # Исключения для сборки
+
+```bash
+mkdir -p simple_flask_app && cd simple_flask_app && touch app.py requirements.txt Dockerfile .dockerignore
+
+
