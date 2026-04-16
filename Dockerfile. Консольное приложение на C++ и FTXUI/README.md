@@ -6,8 +6,7 @@ cpp-ftxui/
 ├── main.cpp
 └── CMakeLists.txt
 ```
-![Результат](../images/tu1.png)
-![Результат](../images/tu2.png)
+
 В каталоге для Docker-проектов создать одной bash-командой всю структуру для нового приложения:
 ```shell
 mkdir -p cpp-ftxui && touch cpp-ftxui/Dockerfile cpp-ftxui/main.cpp cpp-ftxui/CMakeLists.txt && cd cpp-ftxui
