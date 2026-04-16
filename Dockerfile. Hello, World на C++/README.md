@@ -7,10 +7,10 @@
 ---
 
 ## 1. Структура проекта
+![Результат](../images/конс1.png)
+![Результат](../images/конс2.png)
 
 Создайте структуру проекта одной командой:
 
 ```bash
 mkdir -p cpp-docker && cd cpp-docker && touch Dockerfile hello.cpp
-![Результат](../images/конс1.png)
-![Результат](../images/конс2.png)
